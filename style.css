@@ -1,0 +1,21 @@
+body {
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ h1 {
+    padding: 100px 100px;
+    background-color: lavenderblush;
+     color: rgb(191, 225, 165)
+    
+ }
+ p{
+     color: green
+ }
+
+ button{
+       padding: 10px 20px;
+       background-color: blue;
+       color:white;
+       border: none;
+       cursor: grab;
+ }
